@@ -1,7 +1,7 @@
 # FARUOQ MUHAMMED MASIKA
 ### Software Developer
 
-📍 **React** • **Node.js** • **MongoDB** • **TypeScript**
+📍 **React** • **Node.js** • **MongoDB** • **TypeScript** • **Python** • **Prisma** 
 
 ---
 
